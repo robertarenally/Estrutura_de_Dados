@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1467996962 source:c:\users\roberta renally\documents\github\estrutura_de_dados\lista_duplamente_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+
+1467996680 c:\users\roberta renally\documents\github\estrutura_de_dados\lista_duplamente_encadeada\funcao.h
+
