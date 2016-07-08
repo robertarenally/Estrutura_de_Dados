@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1467997989 source:c:\users\roberta renally\documents\github\estrutura_de_dados\lista_circular\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	"funcao.h"
+
+1467998542 c:\users\roberta renally\documents\github\estrutura_de_dados\lista_circular\funcao.h
+
+1467998646 source:c:\users\roberta renally\documents\github\estrutura_de_dados\lista_circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcao.h"
+
