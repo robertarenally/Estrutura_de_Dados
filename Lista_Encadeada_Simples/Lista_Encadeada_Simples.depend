@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1467994977 source:c:\users\roberta renally\documents\github\estrutura_de_dados\lista_encadeada_simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1467995512 c:\users\roberta renally\documents\github\estrutura_de_dados\lista_encadeada_simples\lista.h
+
+1467995786 source:c:\users\roberta renally\documents\github\estrutura_de_dados\lista_encadeada_simples\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	"funcao.h"
+
+1467995512 c:\users\roberta renally\documents\github\estrutura_de_dados\lista_encadeada_simples\funcao.h
+
